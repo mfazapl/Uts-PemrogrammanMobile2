@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pekerjaan</string>
+    <string name="gambar1">Pemadan Kebaran</string>
+    <string name="gambar2">Guru</string>
+    <string name="gambar3">Software Engineer</string>
+    <string name="gambar4">Tentara</string>
+    <string name="gambar5">Polisi</string>
+    <string name="gambar6">Pembaca Berita</string>
+    <string name="gambar7">Fotografer</string>
+    <string name="gambar8">Reporter</string>
+    <string name="gambar9">Programmer</string>
+    <string name="gambar10">Desainer</string>
+</resources>
